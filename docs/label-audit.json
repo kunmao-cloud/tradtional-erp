@@ -1,0 +1,22 @@
+[
+  {
+    "file": "features/docs/config.ts",
+    "key": "esdate",
+    "label": "esdate",
+    "status": "MISMATCH",
+    "descs": [
+      "交貨日期",
+      "交貨日期(民國)"
+    ]
+  },
+  {
+    "file": "features/docs/config.ts",
+    "key": "esdate",
+    "label": "esdate",
+    "status": "MISMATCH",
+    "descs": [
+      "交貨日期",
+      "交貨日期(民國)"
+    ]
+  }
+]
